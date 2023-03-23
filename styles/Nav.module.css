@@ -6,6 +6,6 @@
     display: flex;
     gap: 0 10px;
 }
-.nav li {
+.nav ul li {
     color: #fff;
 }
